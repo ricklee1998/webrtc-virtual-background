@@ -1,6 +1,6 @@
 # WebRTC Virtual Background
 
-[![](./docs/screenshot.png)]
+![screenshot]](./docs/screenshot.png)
 
 ## Running locally
 
